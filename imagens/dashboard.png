@@ -1,1 +1,34 @@
+## 📊 Visualização do Dashboard
+
+O dashboard foi desenvolvido utilizando Streamlit com o objetivo de apresentar os principais resultados da análise comercial de forma visual e facilitar a interpretação dos dados.
+
+A interface reúne indicadores gerais da base analisada, ranking dos clientes prioritários e análises complementares para apoiar a tomada de decisão comercial.
+
+### Indicadores Gerais
+
+A primeira visão apresenta os principais indicadores consolidados da análise, permitindo uma rápida compreensão do tamanho da base, volume financeiro movimentado e comportamento das transações.
+
+![Indicadores Gerais](imagens/dashboard_kpis.png)
+
+
+### Ranking dos Clientes Prioritários
+
+Nesta visão é apresentado o ranking dos clientes classificados pelo score comercial criado através da metodologia 50/30/20.
+
+A tabela permite identificar os clientes com maior potencial para direcionamento de ações comerciais.
+
+![Ranking Clientes](imagens/ranking_clientes.png)
+
+
+### Análises por Segmento e Estado
+
+O dashboard também apresenta análises de distribuição do volume financeiro, permitindo identificar quais segmentos e regiões possuem maior representatividade na carteira de clientes.
+
+![Análise Comercial](imagens/analise_comercial.png)
+
+
+### Lista Final - Top 100 Clientes Prioritários
+
+A última visão apresenta a relação final dos 100 clientes priorizados, ordenados pelo score comercial, servindo como base para direcionamento das campanhas e ações comerciais.
+
 
