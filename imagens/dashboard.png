@@ -4,6 +4,7 @@ O dashboard foi desenvolvido utilizando Streamlit com o objetivo de apresentar o
 
 A interface reúne indicadores gerais da base analisada, ranking dos clientes prioritários e análises complementares para apoiar a tomada de decisão comercial.
 
+
 ### Indicadores Gerais
 
 A primeira visão apresenta os principais indicadores consolidados da análise, permitindo uma rápida compreensão do tamanho da base, volume financeiro movimentado e comportamento das transações.
