@@ -1,1 +1,11 @@
+# requirements.txt
 
+Este arquivo contém as dependências necessárias para execução do projeto.
+
+As bibliotecas listadas são utilizadas para manipulação dos dados, leitura da base em Excel e construção do dashboard interativo.
+
+Dependências utilizadas:
+
+- **Pandas:** responsável pelo tratamento, transformação e análise dos dados.
+- **OpenPyXL:** utilizado para leitura e integração das planilhas Excel utilizadas como fonte de dados.
+- **Streamlit:** utilizado para criação da aplicação web interativa para apresentação dos resultados.
