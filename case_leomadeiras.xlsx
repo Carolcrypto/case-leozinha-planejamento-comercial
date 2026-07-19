@@ -1,1 +1,16 @@
+# Case Técnico - Planejamento Comercial Leozinha
 
+Este projeto apresenta uma solução analítica desenvolvida para apoiar a tomada de decisão comercial através da utilização de dados transacionais.
+
+A proposta foi transformar uma base de clientes e movimentações financeiras em uma visão estratégica, permitindo identificar oportunidades de priorização e direcionamento de ações comerciais.
+
+A solução foi construída utilizando Python para tratamento e análise dos dados e Streamlit para criação de uma interface interativa de apresentação dos resultados.
+
+O desenvolvimento passou pelas etapas de:
+
+- Organização e integração das bases disponibilizadas;
+- Estruturação dos indicadores relevantes para análise comercial;
+- Criação de um modelo de classificação dos clientes;
+- Desenvolvimento de uma aplicação para visualização dos resultados.
+
+O projeto busca demonstrar como dados podem ser utilizados para apoiar decisões comerciais, trazendo uma visão mais estruturada sobre potencial, comportamento e oportunidade de atuação junto aos clientes.
