@@ -1,1 +1,13 @@
+# .gitignore
 
+Este arquivo define quais arquivos e pastas não devem ser enviados para o repositório.
+
+O objetivo é manter o projeto organizado, evitando o versionamento de arquivos temporários, configurações locais e ambientes de desenvolvimento que não são necessários para execução da aplicação.
+
+Arquivos ignorados:
+
+- **venv/** → ambiente virtual local do Python, contendo bibliotecas instaladas na máquina de desenvolvimento.
+- **__pycache__/** → arquivos temporários gerados pelo Python durante a execução.
+- ***.pyc** → arquivos compilados temporários do Python.
+- **.DS_Store** → arquivos de configuração criados pelo sistema macOS.
+- **.streamlit/** → configurações locais da ferramenta Streamlit.
